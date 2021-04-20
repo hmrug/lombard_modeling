@@ -1,0 +1,10 @@
+\begin{tabular}{lrr}
+\toprule
+{} &  ADTV - Last month &  ADTV - Last three years \\
+\midrule
+Credit Suisse &           22595016 &                 12663387 \\
+Richemont     &            1379816 &                  2073134 \\
+Swisscom      &             184673 &                   162442 \\
+SGS           &              23095 &                    25434 \\
+\bottomrule
+\end{tabular}

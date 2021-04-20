@@ -1,0 +1,12 @@
+\begin{tabular}{lrrrrrr}
+\toprule
+{} &  Credit Suisse &  Richemont &  Swisscom &   SGS &  SMI20 &  SP500 \\
+\midrule
+Credit Suisse &           1.00 &       0.59 &      0.32 &  0.44 &   0.59 &   0.42 \\
+Richemont     &           0.59 &       1.00 &      0.26 &  0.54 &   0.64 &   0.41 \\
+Swisscom      &           0.32 &       0.26 &      1.00 &  0.42 &   0.52 &   0.17 \\
+SGS           &           0.44 &       0.54 &      0.42 &  1.00 &   0.69 &   0.36 \\
+SMI20         &           0.59 &       0.64 &      0.52 &  0.69 &   1.00 &   0.46 \\
+SP500         &           0.42 &       0.41 &      0.17 &  0.36 &   0.46 &   1.00 \\
+\bottomrule
+\end{tabular}

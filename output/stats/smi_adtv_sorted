@@ -1,0 +1,26 @@
+\begin{tabular}{lrr}
+\toprule
+{} &  ADTV - Last month &  ADTV - Last three years \\
+\midrule
+Credit Suisse          &           22595016 &                 12663387 \\
+UBS                    &           14342477 &                 16710546 \\
+ABB                    &            6011700 &                  7633406 \\
+Novartis               &            5362601 &                  5848525 \\
+Nestle                 &            4911121 &                  5754748 \\
+LafargeHolcim          &            1969625 &                  2586225 \\
+Roche                  &            1687019 &                  1845463 \\
+Richemont              &            1379816 &                  2073134 \\
+Swiss Re               &            1261646 &                  1612901 \\
+Alcon                  &             973923 &                  1820399 \\
+Zurich Insurance Group &             603503 &                   566517 \\
+Sika                   &             299681 &                   549698 \\
+Lonza                  &             208425 &                   326636 \\
+Swisscom               &             184673 &                   162442 \\
+Swiss Life Holding     &             157328 &                   189753 \\
+Swatch Group           &             153950 &                   279918 \\
+Geberit                &             102333 &                   152361 \\
+Partners Group         &              63191 &                    76297 \\
+Givaudan               &              25133 &                    28990 \\
+SGS                    &              23095 &                    25434 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,10 @@
+\begin{tabular}{lrrr}
+\toprule
+{} &  Beta &  Cokurtosis &  Coskewness \\
+\midrule
+Credit Suisse &  1.50 &       -0.96 &        9.41 \\
+Richemont     &  1.13 &       -1.04 &        6.59 \\
+Swisscom      &  0.66 &       -0.97 &        8.23 \\
+SGS           &  0.89 &       -0.84 &        8.84 \\
+\bottomrule
+\end{tabular}

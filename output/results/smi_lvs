@@ -1,0 +1,26 @@
+\begin{tabular}{lrr}
+\toprule
+{} &  Lending Value &  Annualized Volatility \\
+\midrule
+Nestle                 &           0.91 &                   0.17 \\
+Swisscom               &           0.90 &                   0.18 \\
+Givaudan               &           0.90 &                   0.20 \\
+Novartis               &           0.89 &                   0.20 \\
+Roche                  &           0.89 &                   0.21 \\
+SGS                    &           0.89 &                   0.20 \\
+Geberit                &           0.88 &                   0.22 \\
+Zurich Insurance Group &           0.87 &                   0.25 \\
+Partners Group         &           0.86 &                   0.26 \\
+ABB                    &           0.86 &                   0.26 \\
+Sika                   &           0.86 &                   0.28 \\
+Lonza                  &           0.85 &                   0.28 \\
+Swiss Life Holding     &           0.85 &                   0.27 \\
+LafargeHolcim          &           0.85 &                   0.28 \\
+Swiss Re               &           0.84 &                   0.29 \\
+Richemont              &           0.84 &                   0.30 \\
+UBS                    &           0.83 &                   0.31 \\
+Swatch Group           &           0.83 &                   0.30 \\
+Alcon                  &           0.83 &                   0.33 \\
+Credit Suisse          &           0.79 &                   0.37 \\
+\bottomrule
+\end{tabular}

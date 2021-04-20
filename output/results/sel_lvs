@@ -1,0 +1,10 @@
+\begin{tabular}{lrr}
+\toprule
+{} &  Lending Value &  Annualized Volatility \\
+\midrule
+Credit Suisse &           0.79 &                   0.37 \\
+Richemont     &           0.84 &                   0.30 \\
+Swisscom      &           0.90 &                   0.18 \\
+SGS           &           0.89 &                   0.20 \\
+\bottomrule
+\end{tabular}

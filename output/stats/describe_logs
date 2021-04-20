@@ -1,0 +1,15 @@
+\begin{tabular}{lllll}
+\toprule
+{} & Credit Suisse & Richemont & Swisscom &     SGS \\
+\midrule
+Min                &       -17.47\% &    -14.5\% &   -7.79\% &  -9.17\% \\
+Max                &        13.92\% &    10.94\% &    9.28\% &   7.91\% \\
+Median             &          0.0\% &     0.09\% &    0.02\% &   0.14\% \\
+Mean               &        -0.05\% &     0.02\% &    0.03\% &   0.04\% \\
+Standard Deviation &         2.32\% &     1.87\% &    1.14\% &   1.29\% \\
+Skewness           &          -0.8 &     -0.42 &     0.07 &   -0.37 \\
+Kurtosis           &         10.52 &       7.4 &    12.23 &     7.9 \\
+Value at Risk      &          0.06 &      0.05 &     0.03 &    0.04 \\
+Expected Shortfall &          0.11 &      0.07 &     0.05 &    0.05 \\
+\bottomrule
+\end{tabular}

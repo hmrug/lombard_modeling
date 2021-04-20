@@ -1,0 +1,10 @@
+\begin{tabular}{lllll}
+\toprule
+{} & \# of days in MC state & Frequency & Default & Default Date \\
+\midrule
+Credit Suisse &                    43 &      0.35 &       1 &  16 Aug 2019 \\
+Richemont     &                     0 &       0.0 &       0 &            - \\
+Swisscom      &                     0 &       0.0 &       0 &            - \\
+SGS           &                    29 &      0.24 &       1 &  16 Aug 2019 \\
+\bottomrule
+\end{tabular}

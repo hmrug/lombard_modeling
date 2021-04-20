@@ -1,0 +1,10 @@
+\begin{tabular}{lrr}
+\toprule
+{} &      ADTV &         Gamma \\
+\midrule
+Credit Suisse &  22595017 &  1.931434e-08 \\
+Richemont     &   1379817 &  1.780821e-07 \\
+Swisscom      &    184674 &  8.802315e-07 \\
+SGS           &     23095 &  4.591796e-06 \\
+\bottomrule
+\end{tabular}

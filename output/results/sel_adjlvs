@@ -1,0 +1,10 @@
+\begin{tabular}{lrrrr}
+\toprule
+{} &  x = 0 &  x = 1 000 &  x =1 000 000 &  x = ADTV x 2 \\
+\midrule
+Credit Suisse &  79.36 &      28.73 &         28.73 &         28.73 \\
+Richemont     &  83.60 &      46.15 &         46.15 &         46.15 \\
+Swisscom      &  89.80 &      59.90 &         59.90 &         59.90 \\
+SGS           &  88.62 &      67.85 &         67.85 &         67.85 \\
+\bottomrule
+\end{tabular}

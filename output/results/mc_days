@@ -1,0 +1,10 @@
+\begin{tabular}{llll}
+\toprule
+{} & Three month loan & Six month loan & One year loan \\
+\midrule
+Credit Suisse &               15 &             43 &            73 \\
+Richemont     &                0 &              0 &            26 \\
+Swisscom      &                0 &              0 &             0 \\
+SGS           &                0 &             29 &            55 \\
+\bottomrule
+\end{tabular}
