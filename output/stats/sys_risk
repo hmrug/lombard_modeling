@@ -1,6 +1,6 @@
 \begin{tabular}{lrrr}
 \toprule
-{} &  Beta &  Cokurtosis &  Coskewness \\
+{} &  Beta &  Coskewness &  Cokurtosis \\
 \midrule
 Credit Suisse &  1.50 &       -0.96 &        9.41 \\
 Richemont     &  1.13 &       -1.04 &        6.59 \\
